@@ -1,0 +1,40 @@
+.inter_700{
+    font-family: Inter;
+    font-weight: 700;
+    size:64px;
+}
+.underline{
+    text-decoration: black solid underline;
+    text-underline-offset: 8px;
+}
+.inter_400{
+    font-family: Inter;
+    font-weight: 400;
+    size: 40px;
+}
+.padding{
+    padding-left:51px;
+    padding-right:51.49px;
+    padding-top:47.46;
+    padding-bottom:12.43px;
+}
+.margin{
+    margin-top:47px;
+    margin-right:47px;
+    margin-left:37px;
+    margin: bottom 46.43px;;
+}
+.border{
+    border: solid 1px black;
+}
+.image{
+    height: 500px;;
+    width: 700px;
+    left: 58px;
+    top: 874px;
+    border-radius: 0px;
+    
+}
+.line-height{
+    line-height: 48px;
+}
